@@ -1,0 +1,11 @@
+C:\Users\Samad.Dz\Desktop\Neos Email Spoofer\Neos Email Spoofer\obj\Debug\Neos Email Spoofer.vbprojResolveAssemblyReference.cache
+C:\Users\Samad.Dz\Desktop\Neos Email Spoofer\Neos Email Spoofer\obj\Debug\Neos_Email_Spoofer.Resources.resources
+C:\Users\Samad.Dz\Desktop\Neos Email Spoofer\Neos Email Spoofer\obj\Debug\Neos Email Spoofer.vbproj.GenerateResource.Cache
+C:\Users\Samad.Dz\Desktop\Neos Email Spoofer\Neos Email Spoofer\bin\Debug\Neos Email Spoofer.exe
+C:\Users\Samad.Dz\Desktop\Neos Email Spoofer\Neos Email Spoofer\bin\Debug\Neos Email Spoofer.pdb
+C:\Users\Samad.Dz\Desktop\Neos Email Spoofer\Neos Email Spoofer\bin\Debug\Neos Email Spoofer.xml
+C:\Users\Samad.Dz\Desktop\Neos Email Spoofer\Neos Email Spoofer\obj\Debug\Neos Email Spoofer.exe
+C:\Users\Samad.Dz\Desktop\Neos Email Spoofer\Neos Email Spoofer\obj\Debug\Neos Email Spoofer.xml
+C:\Users\Samad.Dz\Desktop\Neos Email Spoofer\Neos Email Spoofer\obj\Debug\Neos Email Spoofer.pdb
+C:\Users\Samad.Dz\Desktop\Neos Email Spoofer\Neos Email Spoofer\obj\Debug\Neos_Email_Spoofer.Form1.resources
+C:\Users\Samad.Dz\Desktop\Neos Email Spoofer\Neos Email Spoofer\bin\Debug\Neos Email Spoofer.exe.config
